@@ -1,0 +1,19 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nps",
+    "test": "nps test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "migration-clean-diff": "file:../lib"
+  },
+  "devDependencies": {
+    "nps": "^5.10.0"
+  }
+}

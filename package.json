@@ -1,0 +1,23 @@
+{
+  "name": "test-prod",
+  "version": "1.0.0",
+  "description": "A utility that allows for a clean diff when creating versioned migration scripts",
+  "main": "index.js",
+  "scripts": {
+    "start": "nps",
+    "test": "nps test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petermenke/migration-clean-diff.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petermenke/migration-clean-diff/issues"
+  },
+  "homepage": "https://github.com/petermenke/migration-clean-diff#readme",
+  "devDependencies": {
+    "nps": "^5.10.0"
+  }
+}
